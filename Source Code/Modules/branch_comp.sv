@@ -16,4 +16,4 @@ module branch_comp (
 assign BrEq = (a==b);
 assign BrLt = BrUn? (a < b) : ( $signed (a) < $signed (b) );
 
-endmodule
+endmodule 
