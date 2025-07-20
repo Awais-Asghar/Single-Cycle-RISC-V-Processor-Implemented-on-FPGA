@@ -9,7 +9,7 @@ module alu_logic_tb;
 
     alu_logic #(ALU_WIDTH) dut (
         .op1(op1),
-        .op2(op2),
+        .op2(op2), 
         .alu_op(alu_op),
         .result(result)
     );
