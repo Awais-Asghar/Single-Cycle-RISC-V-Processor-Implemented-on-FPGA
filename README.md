@@ -1,4 +1,4 @@
-<img width="783" height="182" alt="image" src="https://github.com/user-attachments/assets/dbd00615-4568-4dbd-bede-c725aa46a21d" /># Single Cycle RISC-V Processor Implemented on FPGA
+# Single Cycle RISC-V Processor Implemented on FPGA
 
 ![Project Status](https://img.shields.io/badge/status-Completed-brightgreen.svg) 
 ![Platform](https://img.shields.io/badge/platform-FPGA-ff69b4.svg)
@@ -144,7 +144,7 @@ These RTL (Register Transfer Level) views were auto-generated using Xilinx Vivad
 
 Timing diagrams were extracted from Vivado simulations to validate functional behavior.
 
-### Top Module:
+### Timing diagrams of Top Module:
 
 <img width="1504" height="652" alt="Image" src="https://github.com/user-attachments/assets/5fbe2133-b1d1-42df-a7b6-65ff9d0d119a" />
 
@@ -152,16 +152,43 @@ Timing diagrams were extracted from Vivado simulations to validate functional be
 
 <img width="1503" height="413" alt="Image" src="https://github.com/user-attachments/assets/986af143-d9ce-467d-b31d-ab2c4c4d7ed2" />
 
+### Timing diagrams of Control Unit Module
 
+<img width="940" height="221" alt="Image" src="https://github.com/user-attachments/assets/d9aa7161-785e-4e51-81db-88543f19eab8" />
 
+### Timing diagrams of Instruction Memory Module
 
+<img width="1505" height="800" alt="Image" src="https://github.com/user-attachments/assets/412c3f06-9417-44ff-a8ca-5aa09ef52dbc" />
 
+### Timing diagrams of Branch Comparator Module
 
+<img width="940" height="185" alt="Image" src="https://github.com/user-attachments/assets/275d76f9-1a5e-4d4e-ba8a-be00415ba361" />
 
+### Timing diagrams of Immediate Generator Module
 
+<img width="940" height="65" alt="Image" src="https://github.com/user-attachments/assets/464230f1-e309-487e-923f-32bcc70927bf" />
 
+### Timing diagrams of Program Counter Module
 
+<img width="940" height="94" alt="Image" src="https://github.com/user-attachments/assets/9fa17a8f-99b3-4f4a-abb5-82c2bc506bde" />
 
+### Timing diagrams of Register File Module
+
+<img width="1506" height="822" alt="Image" src="https://github.com/user-attachments/assets/fc7d1068-68cb-4ec3-b76c-246a63dc31d4" />
+
+### Timing diagrams of ALU Logic Module
+
+<img width="940" height="112" alt="Image" src="https://github.com/user-attachments/assets/576a1075-9c05-482f-8f58-bc093622f999" />
+
+### Timing diagrams of Data Memory Module
+
+<img width="1506" height="418" alt="Image" src="https://github.com/user-attachments/assets/30a23fd0-6411-4e12-b774-7c3b49eb791e" />
+
+## Simulation Outputs
+
+These snapshots show the overall system execution for a sample RISC-V program.
+
+### 
 
 
 
