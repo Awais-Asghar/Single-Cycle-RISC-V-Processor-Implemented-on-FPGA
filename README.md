@@ -1,4 +1,4 @@
-# Single Cycle RISC-V Processor Implemented on FPGA
+# Single Cycle RISC-V Processor Implemented on FPGA 
 
 ![Project Status](https://img.shields.io/badge/status-Completed-brightgreen.svg) 
 ![Platform](https://img.shields.io/badge/platform-FPGA-ff69b4.svg)
